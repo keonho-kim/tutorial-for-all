@@ -12,3 +12,8 @@ Data Science에 연관된 다양한 영역을 커버하고자 합니다.
 # Algorithm with Python 
 
 * [재귀함수 (Recursive function) - English](https://colab.research.google.com/drive/12Lx_Zi30cMEOW-QhmMzU1fT-Syu65Enc?usp=sharing)
+
+---
+# Numpy, Pandas and Matplotlib
+
+* [일주일만에 Pandas 훑어보기](https://drive.google.com/drive/folders/13uZNB7oCpBg80cUTV0Tg9QKMMezuPBgD?usp=sharing)
