@@ -6,7 +6,9 @@ Data Science에 연관된 다양한 영역을 커버하고자 합니다.
 
 까먹으면 같이 리뷰합시다.
 
----
-# Algorithm Review with Python 
+가끔 영어를 까먹어서 영어로 작성 할 때도 있습니다.
 
-* 재귀함수 (Recursive function) [link](https://colab.research.google.com/drive/12Lx_Zi30cMEOW-QhmMzU1fT-Syu65Enc?usp=sharing)
+---
+# Algorithm with Python 
+
+* [재귀함수 (Recursive function) - English](https://colab.research.google.com/drive/12Lx_Zi30cMEOW-QhmMzU1fT-Syu65Enc?usp=sharing)
