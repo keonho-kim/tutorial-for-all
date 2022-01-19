@@ -4,9 +4,9 @@
 
 Data Science에 연관된 다양한 영역을 커버하고자 합니다.
 
-까먹으면 같이 리뷰합시다.
-
 가끔 영어를 까먹어서 영어로 작성 할 때도 있습니다.
+
+링크는 Google Colab으로 연결됩니다.
 
 ---
 # Algorithm with Python 
