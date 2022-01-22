@@ -20,5 +20,5 @@ Data Science에 연관된 다양한 영역을 커버하고자 합니다.
 # Numpy, Pandas and Matplotlib Tutorial - 기초 지식 '아주 약간' 요구
 
 * [일주일만에 Pandas로 Python 기초 훑어보기](https://drive.google.com/drive/folders/13uZNB7oCpBg80cUTV0Tg9QKMMezuPBgD?usp=sharing)
-* [자꾸 Numpy를 까먹으니 Cheat Sheat을 만들어보았습니다](https://drive.google.com/file/d/107iLih7CjUEKM5ABFIMsRbSJtD75cpTq/view?usp=sharing)
-* [자꾸 Matplotlib을 까먹으니 Cheat Sheat을 만들어보았습니다](https://colab.research.google.com/drive/1zKRsgcKQBDrL7lGIyFC1ZYvVJhVtQ3cT?usp=sharing)
+* [자꾸 Numpy를 까먹으니 입문자용 Cheat Sheat을 만들어보았습니다](https://drive.google.com/file/d/107iLih7CjUEKM5ABFIMsRbSJtD75cpTq/view?usp=sharing)
+* [자꾸 Matplotlib을 까먹으니 입문자용 Cheat Sheat을 만들어보았습니다](https://colab.research.google.com/drive/1zKRsgcKQBDrL7lGIyFC1ZYvVJhVtQ3cT?usp=sharing)
