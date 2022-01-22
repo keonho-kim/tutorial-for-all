@@ -14,6 +14,7 @@ Data Science에 연관된 다양한 영역을 커버하고자 합니다.
 # Algorithm with Python - 기초적인 프로그래밍 지식 복습하기 (Python 기초 지식 요구)
 
 * [재귀함수 (Recursive function) - English](https://colab.research.google.com/drive/12Lx_Zi30cMEOW-QhmMzU1fT-Syu65Enc?usp=sharing)
+* [Python Class 입문하기 - English](https://colab.research.google.com/drive/1prkWK5wBf8cI4B8NvjVoAuH0HOEMdf4H?usp=sharing)
 
 ---
 # Numpy, Pandas and Matplotlib Tutorial - 기초 지식 '아주 약간' 요구
