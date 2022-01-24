@@ -8,8 +8,6 @@ Data Science에 연관된 다양한 영역을 커버하고자 합니다.
 
 가끔 영어를 까먹어서 영어로 작성 할 때도 있습니다.
 
-링크는 Google Colab으로 연결됩니다.
-
 ---
 # Algorithm with Python - 기초적인 프로그래밍 지식 복습하기 (Python 기초 지식 요구)
 
