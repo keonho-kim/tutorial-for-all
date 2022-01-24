@@ -9,6 +9,10 @@ Data Science에 연관된 다양한 영역을 커버하고자 합니다.
 가끔 영어를 까먹어서 영어로 작성 할 때도 있습니다.
 
 ---
+# 소소한 Python 팁
+* [print를 깔끔하게 : F-strings](https://github.com/keonho-kim/tutorial-for-all/blob/main/Notebooks/%08f-strings.ipynb)
+
+---
 # Algorithm with Python - 기초적인 프로그래밍 지식 복습하기 (Python 기초 지식 요구)
 
 * [재귀함수 (Recursive function) - English](https://colab.research.google.com/drive/12Lx_Zi30cMEOW-QhmMzU1fT-Syu65Enc?usp=sharing)
